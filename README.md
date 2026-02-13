@@ -8,4 +8,4 @@ Radius Modify OneUI (OneUI 7 and UP)
   
 
 # Feature
-- Modifying Samsung OneUI's Radius in QS Panel and Volume Panel to get a less round corner similar to OneUI 6
+- Modifying Samsung OneUI's Radius in QS Panel and Volume Panel to get a less round corner (15DP) similar to OneUI 6
