@@ -1,4 +1,4 @@
-#### 丸い角を修正する / Radius Modify OneUI
+# 丸い角を修正する / Radius Modify OneUI
 Required OneUI 7 and UP
 
 <p align="left">
@@ -7,9 +7,9 @@ Required OneUI 7 and UP
     <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='Latest Release' height='35' src='./HeheJuice/DownloadV2.png'/></a>
 </p>
 
-# Feature
+### Feature
 - Modifying Samsung OneUI's Radius in QS Panel and Volume Panel to get a less round corner (22DP) similar to OneUI 6
 
-# Notice 
+### Notice 
 You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
 
