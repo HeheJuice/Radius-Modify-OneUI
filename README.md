@@ -1,6 +1,6 @@
 # 丸い角を修正する
 - Radius Modify OneUI
-- Required OneUI 7 and UP
+- Required OneUI 7 or UP
 - Root REQUIRED 
 <p align="left">
   <a href='https://t.me/channelhehejuice'><img alt='Telegram Channel' height='35' src='./HeheJuice/ChannelV2.png'/></a>
