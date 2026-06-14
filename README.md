@@ -9,8 +9,17 @@
 </p>
 
 ### Feature
-- Modifying Samsung OneUI's Radius in QS Panel and Volume Panel to get a less round corner (22DP) similar to OneUI 6
+- Modifying Samsung OneUI's Radius in QS Panel and Volume Panel to get a custom round corner 
+- Module Default Value : 22dp (similar to OneUI 6)
+- Freely adjustable in the value of the APK
+
+### Installation 
+- Flash in your Root Manager 
+- KSU or other Kernel Root Manager might need to
+   - Disable"Default Uninstall Module" in Settings 
+   - Meta Module installed (We only recommend MMRS_CI)
 
 ### Notice 
-You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
+- You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
+- Add this GitHub Link if you are going to share it somewhere 
 
