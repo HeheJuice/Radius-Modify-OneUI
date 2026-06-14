@@ -17,7 +17,7 @@
 - Flash in your Root Manager 
 - KernelSU or other Kernel Root Manager might need to
    - Disable"Default Uninstall Module" in Settings 
-   - Meta Module installed (We only recommend MMRS_CI)
+   - Meta Module installed (We only recommend [MMRS_CI](https://github.com/Tools-cx-app/meta-magic_mount-rs))
 
 ### Notice 
 - You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
