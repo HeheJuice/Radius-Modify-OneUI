@@ -15,7 +15,7 @@
 
 ### Installation 
 - Flash in your Root Manager 
-- KSU or other Kernel Root Manager might need to
+- KernelSU or other Kernel Root Manager might need to
    - Disable"Default Uninstall Module" in Settings 
    - Meta Module installed (We only recommend MMRS_CI)
 
