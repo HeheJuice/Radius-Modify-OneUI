@@ -12,7 +12,7 @@
 ### Feature
 - Modifying Samsung OneUI's Radius in QS Panel and Volume Panel to get a custom round corner 
 - Module Default Value : 22dp (similar to OneUI 6)
-- Freely adjustable in the value of the APK
+- Freely adjustable in the Dimen value of the APK 
 
 ### Installation 
 - Flash in your Root Manager 
